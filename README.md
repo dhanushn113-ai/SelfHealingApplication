@@ -1,3 +1,5 @@
+SELF-HEALING APPLICATION
+
 A Python + Streamlit project that uses a Random Forest Machine Learning model to detect anomalies in application logs and perform automated self-healing actions.
 This system demonstrates how applications can self-monitor, self-diagnose, and recover automatically without manual intervention.
 
@@ -25,7 +27,7 @@ yaml Copy code
 
 ⚙️ Getting Started
 1. Clone the Repository
-git clone https://github.com/balakrishnabadri25/Self-Healing-Applications.git
+git clone https://github.com/dhanushn113-ai/Self-Healing-Applications.git
 cd Self-Healing-Applications
 2. Create and Activate a Virtual Environment
 python -m venv venv
